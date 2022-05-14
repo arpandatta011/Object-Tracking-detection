@@ -6,7 +6,7 @@ Object detection is the detection on every single frame and frame after frame.
 
 Object tracking does frame-by-frame tracking but keeps the history of where the object is at a time after time
 
-##We will talk first about object detection and then about how to apply object tracking to the detection.
+We will talk first about object detection and then about how to apply object tracking to the detection.
 
 # What are the possible applications?
 
@@ -16,7 +16,7 @@ Surely where having seen the tutorial you will easily think of thousands of idea
 
 # What do we need?
 
-In this tutorial we will use 3 files.:
+In this Project I will use 3 files.:
 
 1 The video of the highway we will use to count the vehicles
 
